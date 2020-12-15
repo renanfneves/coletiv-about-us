@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`It renders the contactUs component 1`] = `
+<styled.article>
+  <styled.h4>
+    CONTACT US
+  </styled.h4>
+  <styled.h3>
+    From humble beginnings
+  </styled.h3>
+  <styled.p>
+    We know the challenges of creating a business. Want us to help create yours?
+  </styled.p>
+  <styled.a
+    href="https://coletiv.com/contact"
+  >
+    Get In Touch
+  </styled.a>
+</styled.article>
+`;

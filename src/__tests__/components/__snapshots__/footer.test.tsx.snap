@@ -1,0 +1,179 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`It renders the footer component 1`] = `
+<styled.footer>
+  <styled.article>
+    <styled.article>
+      <h3>
+        Your full-service digital agency
+      </h3>
+    </styled.article>
+    <styled.article>
+      <styled.article>
+        <h3>
+          Contacts
+        </h3>
+        <a
+          href="mailto:humans@coletiv.com"
+          rel="noopener noreferrer"
+          target="_self"
+        >
+          humans@coletiv.com
+        </a>
+        <a
+          href="tel:+351914541645"
+          rel="noopener noreferrer"
+          target="_self"
+        >
+          +351 914 541 645
+        </a>
+      </styled.article>
+    </styled.article>
+  </styled.article>
+  <styled.footer>
+    <styled.div>
+      <div>
+        <a
+          href="https://coletiv.com/"
+        >
+          <CompleteLogo />
+        </a>
+        <styled.p>
+          <span>
+            @ 2020 Coletiv
+          </span>
+          <a
+            href="https://coletiv.com/legal"
+          >
+            Privacy & Policy
+          </a>
+        </styled.p>
+      </div>
+      <styled.nav>
+        <h3>
+          Company
+        </h3>
+        <ul>
+          <li>
+            <a
+              href="https://coletiv.com/showcase/"
+            >
+              Showcase
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://coletiv.com/services/"
+            >
+              Services
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://coletiv.com/blog/"
+            >
+              Blog
+            </a>
+          </li>
+          <li>
+            <a
+              href="/"
+            >
+              About Us
+            </a>
+          </li>
+        </ul>
+      </styled.nav>
+      <styled.nav>
+        <h3>
+          Contacts
+        </h3>
+        <ul>
+          <li>
+            <a
+              href="mailto:humans@coletiv.com"
+              rel="noopener noreferrer"
+              target="_self"
+            >
+              Email humans@coletiv.com
+            </a>
+          </li>
+          <li>
+            <a
+              href="tel:+351914541645"
+              rel="noopener noreferrer"
+              target="_self"
+            >
+              Phone +351 914 541 645
+            </a>
+          </li>
+        </ul>
+      </styled.nav>
+      <styled.nav>
+        <h3>
+          Social
+        </h3>
+        <ul>
+          <li>
+            <a
+              href="//linkedin.com/company/coletiv"
+              rel="noopener noreferrer"
+              target="_blank"
+              title="See Coletiv on LinkedIn"
+            >
+              <LinkedIn />
+            </a>
+          </li>
+          <li>
+            <a
+              href="//twitter.com/coletivstudio"
+              rel="noopener noreferrer"
+              target="_blank"
+              title="See Coletiv on Twitter"
+            >
+              <LinkedIn />
+            </a>
+          </li>
+          <li>
+            <a
+              href="//facebook.com/wearecoletiv"
+              rel="noopener noreferrer"
+              target="_blank"
+              title="See Coletiv on Facebook"
+            >
+              <LinkedIn />
+            </a>
+          </li>
+          <li>
+            <a
+              href="//instagram.com/coletiv"
+              rel="noopener noreferrer"
+              target="_blank"
+              title="See Coletiv on Instagram"
+            >
+              <LinkedIn />
+            </a>
+          </li>
+          <li>
+            <a
+              href="//dribbble.com/Coletiv"
+              rel="noopener noreferrer"
+              target="_blank"
+              title="See Coletiv on Dribbble"
+            >
+              <LinkedIn />
+            </a>
+          </li>
+        </ul>
+      </styled.nav>
+    </styled.div>
+    <styled.footer>
+      <a
+        href="https://coletiv.com//legal"
+      >
+        Copyright © Coletiv Studio, Lda. 2020 All rights reserved. If you are bored and want to read some legal bits, see our legal page.
+      </a>
+    </styled.footer>
+  </styled.footer>
+</styled.footer>
+`;

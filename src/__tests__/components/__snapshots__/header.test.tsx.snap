@@ -1,0 +1,165 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`It renders the header component 1`] = `
+<styled.div>
+  <Styled(Modal)
+    ariaHideApp={false}
+    isOpen={false}
+  >
+    <styled.div>
+      <styled.button
+        onClick={[Function]}
+      >
+        <Logo />
+      </styled.button>
+      <styled.button
+        onClick={[Function]}
+      >
+        X
+      </styled.button>
+    </styled.div>
+    <styled.nav>
+      <Styled(styled.a)
+        href="https://coletiv.com/showcase/"
+      >
+        Showcase
+      </Styled(styled.a)>
+      <Styled(styled.a)
+        href="https://coletiv.com/showcase/"
+      >
+        Services
+      </Styled(styled.a)>
+      <Styled(Styled(styled.a))
+        href="https://coletiv.com/services/ux-ui-design/"
+      >
+        UX/UI Design
+      </Styled(Styled(styled.a))>
+      <Styled(Styled(styled.a))
+        href="https://coletiv.com/services/web-development/"
+      >
+        Web Development
+      </Styled(Styled(styled.a))>
+      <Styled(Styled(styled.a))
+        href="https://coletiv.com/services/android-app-development/"
+      >
+        Android Development
+      </Styled(Styled(styled.a))>
+      <Styled(Styled(styled.a))
+        href="https://coletiv.com/services/ios-app-development/"
+      >
+        iOS Development
+      </Styled(Styled(styled.a))>
+      <Styled(Styled(styled.a))
+        href="https://coletiv.com/services/flutter-development"
+      >
+        Flutter Development
+      </Styled(Styled(styled.a))>
+      <Styled(Styled(styled.a))
+        href="https://coletiv.com/services/elixir-backend/"
+      >
+        Backend Development
+      </Styled(Styled(styled.a))>
+      <Styled(styled.a)
+        href="https://coletiv.com/blog/"
+      >
+        Blog
+      </Styled(styled.a)>
+      <Styled(styled.a)
+        href="/"
+        style={
+          Object {
+            "color": "black",
+            "fontWeight": 700,
+          }
+        }
+      >
+        About Us
+      </Styled(styled.a)>
+    </styled.nav>
+  </Styled(Modal)>
+  <styled.button
+    onClick={[Function]}
+  >
+    <Logo />
+  </styled.button>
+  <styled.nav>
+    <styled.a
+      href="https://coletiv.com/showcase/"
+    >
+      Showcase
+    </styled.a>
+    <Dropdown
+      label="Services"
+      onClick={[Function]}
+    >
+      <nav>
+        <Styled(styled.a)
+          href="https://coletiv.com/services/ux-ui-design/"
+        >
+          UX/UI Design
+        </Styled(styled.a)>
+        <Styled(styled.a)
+          href="https://coletiv.com/services/web-development/"
+        >
+          Web Development
+        </Styled(styled.a)>
+        <Styled(styled.a)
+          href="https://coletiv.com/services/android-app-development/"
+        >
+          Android Development
+        </Styled(styled.a)>
+        <Styled(styled.a)
+          href="https://coletiv.com/services/ios-app-development/"
+        >
+          iOS Development
+        </Styled(styled.a)>
+        <Styled(styled.a)
+          href="https://coletiv.com/services/flutter-development"
+        >
+          Flutter Development
+        </Styled(styled.a)>
+        <Styled(styled.a)
+          href="https://coletiv.com/services/elixir-backend/"
+        >
+          Backend Development
+        </Styled(styled.a)>
+      </nav>
+    </Dropdown>
+    <styled.a
+      href="https://coletiv.com/blog/"
+    >
+      Blog
+    </styled.a>
+    <styled.a
+      href="/"
+      style={
+        Object {
+          "color": "black",
+          "fontWeight": 700,
+        }
+      }
+    >
+      About Us
+    </styled.a>
+    <Styled(styled.a)
+      href="https://coletiv.com/contact"
+    >
+      Talk To Us
+    </Styled(styled.a)>
+  </styled.nav>
+  <styled.nav>
+    <Styled(styled.a)
+      href="https://coletiv.com/contact"
+    >
+      Talk To Us
+    </Styled(styled.a)>
+    <styled.button
+      onClick={[Function]}
+    >
+      <span />
+      <span />
+      <span />
+    </styled.button>
+  </styled.nav>
+</styled.div>
+`;
