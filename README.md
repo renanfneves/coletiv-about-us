@@ -38,3 +38,7 @@ Its tests made with Jest and Enzyme.
 Its CI/CD is based in github actions and firebase hosting.
 
 You can check the deployed version on https://coletiv-about-us.web.app 
+
+Javascript tests you are gonna find in src/services directory
+
+Here on Project tab you can check how I have planned my tasks during the development
