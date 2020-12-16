@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`It renders the article component 1`] = `
+<styled.article>
+  <styled.img
+    alt="Test Alt"
+    src="Test Img"
+  />
+  <styled.div>
+    <styled.h2>
+      Test Subject
+    </styled.h2>
+    <styled.h3>
+      Test Subject
+    </styled.h3>
+  </styled.div>
+</styled.article>
+`;
